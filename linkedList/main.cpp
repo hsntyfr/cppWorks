@@ -17,12 +17,19 @@ int main() {
     n2 = 0;*/
 
     LinkedList* l = new LinkedList();
-    l->Add(10);
-    l->Add(20);
-    l->Add(30);
-    l->Add(40);
-    l->Add(50);
-    l->Add(60);
+    /*l->AddBack(10);
+    l->AddBack(20);
+    l->AddBack(30);
+    l->AddBack(40);
+    l->AddBack(50);
+    l->AddBack(60);*/
+
+
+
+    l->Print();
+
+    //l->RemoveIndex(3);
+
 
     l->Print();
 

@@ -7,9 +7,12 @@ class LinkedList
 public:
     LinkedList();
     ~LinkedList();
-    void Add(int data);
+    void AddBack(int data);
     void Print();
-
+    void AddTop(int data);
+    void Insert(int index, int data);
+    void RemoveIndex(int index);
+    void AddSort(int data);
 private:
     Node* first;
 };
