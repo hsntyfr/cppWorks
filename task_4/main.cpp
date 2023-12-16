@@ -1,15 +1,3 @@
-/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**			         BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				          PROGRAMLAMAYA GİRİŞİ DERSİ
-**
-**				ÖDEV NUMARASI…...:1
-**				ÖĞRENCİ ADI...............:Hasan Tayfur
-**				ÖĞRENCİ NUMARASI.:B211210055
-**				DERS GRUBU…………:C
-****************************************************************************/
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
